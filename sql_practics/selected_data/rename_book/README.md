@@ -8,11 +8,11 @@
 
 ## Структура таблицы
 
-<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_10_Изменить_название_книг/img/cx_5_1.jpg">
+<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/sql_practics/selected_data/rename_book/img/cx_5_1.jpg">
 
 ## Ответ базы данных должен выглядеть так:
 
-<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_10_Изменить_название_книг/img/res.png">
+<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/sql_practics/selected_data/rename_book/img/res.png">
 
 ## РЕШЕНИЕ ЗАДАЧИ:
 
