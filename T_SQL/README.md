@@ -8,7 +8,7 @@
 <img src="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/T_SQL/img/book.jpeg" title="Git" **alt="Git" width="40" height="40"/>  <a href="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/T_SQL/1_1_Простая_выборка_Склад">1.1 Простая выборка, "Склад" (11 задач)</a>  &nbsp;
 </div> 
 <div>
-<img src="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/1T_SQL/img/blok.png" title="Git" **alt="Git" width="40" height="40"/>  <a href="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/T_SQL/1_2_Простая_выборка_Резюме">1.2 Простая выборка, "Резюме" (12 задач)</a>  &nbsp;
+<img src="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/T_SQL/img/blok.png" title="Git" **alt="Git" width="40" height="40"/>  <a href="https://github.com/kolesnikovvitaliy/SQL_PRACTICS/blob/main/T_SQL/1_2_Простая_выборка_Резюме">1.2 Простая выборка, "Резюме" (12 задач)</a>  &nbsp;
 </div>
 <!-- 
 
